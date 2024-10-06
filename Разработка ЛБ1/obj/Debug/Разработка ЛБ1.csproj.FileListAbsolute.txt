@@ -1,0 +1,19 @@
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\bin\Debug\Разработка ЛБ1.exe.config
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\bin\Debug\Разработка ЛБ1.exe
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\bin\Debug\Разработка ЛБ1.pdb
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\obj\Debug\Разработка ЛБ1.csproj.AssemblyReference.cache
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\obj\Debug\App.g.cs
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\obj\Debug\Разработка ЛБ1_MarkupCompile.cache
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\obj\Debug\Разработка ЛБ1_MarkupCompile.lref
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\obj\Debug\Разработка ЛБ1.g.resources
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\obj\Debug\Разработка_ЛБ1.Properties.Resources.resources
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\obj\Debug\Разработка ЛБ1.csproj.GenerateResource.cache
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\obj\Debug\Разработка ЛБ1.csproj.CoreCompileInputs.cache
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\obj\Debug\Разработка ЛБ1.exe
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\obj\Debug\Разработка ЛБ1.pdb
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\obj\Debug\LogIn.g.cs
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\obj\Debug\MainWindow - Копировать.g.cs
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\obj\Debug\Registration.g.cs
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\obj\Debug\LogIn.baml
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\obj\Debug\MainWindow - Копировать.baml
+C:\Users\manan\OneDrive\Рабочий стол\Разработка ЛБ1\obj\Debug\Registration.baml
